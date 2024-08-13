@@ -110,6 +110,3 @@ npx hardhat test
 ## License
 
 This project is licensed under the MIT License.
-```
-
-You can save this content to a file named `README.md` or any other `.md` file for your project's documentation.
